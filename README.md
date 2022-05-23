@@ -14,6 +14,8 @@ for this university project we have learned and worked on:
 
 
 A big thank to NeuralNine youtube channel & Blog which helped me a lot with the local group chat : https://www.neuralnine.com/ .
+
 A big thank to mr Zaid Al-Quraishi lectures on ethical hacking (full name of the course on Udemy : Learn Python & Ethical Hacking From Scratch).
+
 A big to my teacher mr A.B and to my colleague BOUDJELIDA Tarek who managed to work with me on this university project.
 
